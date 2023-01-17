@@ -1,2 +1,1 @@
-# Jakhongir
-Devloper in the future
+moved to @ganiyevuz
